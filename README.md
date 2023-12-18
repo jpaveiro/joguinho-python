@@ -1,2 +1,2 @@
-# joguinho-python
-Joguinho feito em Python, feito mais para estudar e melhorar meu conhecimento sobre Python.
+# Jogo simples em Python.
+#### Pode ser rodado no terminal.
